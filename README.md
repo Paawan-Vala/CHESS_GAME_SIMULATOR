@@ -1,5 +1,4 @@
 # CHESS_GAME_SIMULATOR
-# Console Chess Simulator
 
 ## Project Overview  
 A simple two‑player chess game in C++11. Players alternate entering moves in the form `r1 c1 r2 c2` (rows and columns 0–7). The program enforces all official rules—castling, en passant, pawn promotion, and detection of check, checkmate, or stalemate. There is no computer opponent.
